@@ -1,0 +1,6 @@
+*.env
+.env
+__pycache__
+venv_ecommerce
+venv
+*.pdf
